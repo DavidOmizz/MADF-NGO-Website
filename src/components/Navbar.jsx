@@ -13,20 +13,20 @@ function Navbar() {
                     <span><i><FaTwitter /></i></span>
                     <span><i><FaEnvelope /></i></span>
                     <span><i><FaLinkedinIn /></i></span>
-                    <span><a href="">madf@gmail.com</a></span>
+                    <span><a href="">contact@madf.com</a></span>
                     <button className='border-solid border-2 border-white py-2 px-2 text-center text-white text-xs font-medium uppercase hover:bg-white hover:text-green-700'>Become volunteer</button>
                 </div>
             </div>
 
-            <nav className='flex justify-center bg-white p-3 text-black'>
+            <nav className='flex justify-center bg-white p-4 text-black'>
                 <ul className='flex gap-6 text-lg'>
-                    <li><a href="" className='text-purple-700'>Home</a></li>
-                    <li><a href="">Features</a></li>
-                    <li><a href="">Causes</a></li>
-                    <li><a href="">Shop</a></li>
-                    <li><a href="">Gallery</a></li>
-                    <li><a href="">blog</a></li>
-                    <li><a href="">contact us</a></li>
+                    <li><a href="" className='text-green-700'>Home</a></li>
+                    <li><a href="" className='hover:text-green-700'>Features</a></li>
+                    <li><a href="" className='hover:text-green-700'>Causes</a></li>
+                    <li><a href="" className='hover:text-green-700'>Shop</a></li>
+                    <li><a href="" className='hover:text-green-700'>Gallery</a></li>
+                    <li><a href="" className='hover:text-green-700'>blog</a></li>
+                    <li><a href="" className='hover:text-green-700'>contact us</a></li>
                 </ul>
             </nav>
         </header>
