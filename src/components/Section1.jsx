@@ -138,7 +138,7 @@ function Section1() {
         <div className='bg-center bg-no-repeat bg-cover' style={{backgroundImage: `url(${DImages})`}} >
             <div className='py-20 backdrop-brightness-50 bg-neutral-800/60 h-full text-center text-white'>
                 <p className='text-4xl font-thin mb-8'>Donation Holders says <strong className='font-semibold border-b-2 border-green-500'>Read more</strong></p>
-                <p className='mx-auto text-xl italic max-[800px]:bg-sky-300'>"Lorem ipsum dolor sit amet consectetur adipisicing elit consectetur adipisicing elit. Dolor nostrum cupiditate at dolorum? Assumenda, saepe!"</p>
+                <p className='mx-auto text-xl italic'>"Lorem ipsum dolor sit amet consectetur adipisicing elit consectetur adipisicing elit. Dolor nostrum cupiditate at dolorum? Assumenda, saepe!"</p>
                 <h3 className='mt-5 text-2xl font-medium'>John Doe</h3>
                 <small className='text-sm font-thin'>(New media of markering firm)</small>
             </div>
